@@ -13,13 +13,13 @@ ReadMe.txt ............................................................ Brief ov
 | |
 | |-- 1) ExtractVectors.cmd .............................................. Extracts feature vectors from item images
 | |
-| |-- 2) ComputeImageKnn.pdf....................................................... Computes KNN neighbours for item
+| |-- 2) ComputeImageKnn.cmd ...................................................... Computes KNN neighbours for item
 | |
-| |-- 3) ShowSimilar.pdf................ Starts interactive dialog presenting similar items based in precomputed KNN
+| |-- 3) ShowSimilar.cmd ............... Starts interactive dialog presenting similar items based in precomputed KNN
 | |
-| |-- 4) DownloadInteractions.pdf.......................................... Downloads interaction data from database
+| |-- 4) DownloadInteractions.cmd ......................................... Downloads interaction data from database
 | |
-| |-- 5) RecommendForUser.pdf .......................................... Starts interactive recommendation for users
+| |-- 5) RecommendForUser.cmd .......................................... Starts interactive recommendation for users
 | |
 | |-- DeepRecommender.exe .................................................... Binary version of reccomender program
 | |
