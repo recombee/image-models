@@ -1,8 +1,10 @@
-Image-Knn recommender by Martin Pavlicek 2018
-==============================================
+Image-Knn recommender
+===========
+Image-based recommendation model developed within Bachelor's thesis of Martin Pavlicek in RecombeeLab at FIT CTU in Prague.
 
-Archive structure
+Project structure
 ==================
+```
 ReadMe.txt ............................................................ Brief overview of archive and program manual
 |
 |-- src................................................................................................ Source codes
@@ -22,6 +24,7 @@ ReadMe.txt ............................................................ Brief ov
 | |-- DeepRecommender.exe .................................................... Binary version of reccomender program
 | |
 | |-- VGG16_FeatureExtractor.py .................................... Python script for item image feature extraction
+```
 
 Requirements
 ===============
@@ -46,6 +49,6 @@ For quick start follow steps below:
 2) Run batch files one by one in numbered order
 3) For advanced usage run "DeepRecommender.exe [command] (args)"
 
-For more info about this recommendation model see:
+<b>For more info about this recommendation model see:</b><br>
 Pavlíček, Martin. 2018. Doporučovací modely založené na obrázcích. České vysoké učení technické v Praze, Fakulta informačních
 technologií
