@@ -28,16 +28,16 @@ ReadMe.txt ............................................................ Brief ov
 
 Requirements
 ===============
-.NET Framework 4.6.1 or newer (Windows) OR .NET Core 2.0 or newer (Linux)
-Keras neural network framework python package
-Any Keras python backend (Tensorflow preferred)
-For GPU accelerated computing CUDA 8 or newer is required and TensorflowGPU python package
+.NET Framework 4.6.1 or newer (Windows) OR .NET Core 2.0 or newer (Linux) <br>
+Keras neural network framework python package <br>
+Any Keras python backend (Tensorflow preferred) <br>
+For GPU accelerated computing CUDA 8 or newer is required and TensorflowGPU python package <br>
 
 How to use
 ==============
-Batch files are provided to assist you in bootstrap process.
-For help run "DeepRemonneder.exe help".
-To show info about specific command run "DeepRecommender.exe [command] help".
+Batch files are provided to assist you in bootstrap process. <br>
+For help run "DeepRemonneder.exe help". <br>
+To show info about specific command run "DeepRecommender.exe [command] help". <br>
 
 Recommendation process is divided into 3 steps:
 1) Extraction of feature vectors from images of recommended items
